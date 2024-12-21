@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1633875585 source:c:\users\user\documents\Διδασκαλίες\Πανεπιστήμιο Θεσσαλίας\Τμήμα Ψηφιακών Συστημάτων\Προγραμματισμός Ι\source code\inventory\main.c
+	<stdio.h>
+	"readline.h"
+
+1633876739 c:\users\user\documents\Διδασκαλίες\Πανεπιστήμιο Θεσσαλίας\Τμήμα Ψηφιακών Συστημάτων\Προγραμματισμός Ι\source code\inventory\readline.h
+
+1633875585 source:c:\users\user\documents\Διδασκαλίες\Πανεπιστήμιο Θεσσαλίας\Τμήμα Ψηφιακών Συστημάτων\Προγραμματισμός Ι\source code\inventory\readline.c
+	<ctype.h>
+	<stdio.h>
+	"readline.h"
+
